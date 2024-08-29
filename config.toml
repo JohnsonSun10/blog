@@ -150,6 +150,14 @@ theme = "love"
         url = "/research/"
         title = ""
       [[languages.en.menu.main]]
+        weight = 2
+        identifier = "publication"
+        pre = ""
+        post = ""
+        name = "Publication"
+        url = "/publication/"
+        title = ""        
+      [[languages.en.menu.main]]
         weight = 3
         identifier = "contact"
         pre = ""
@@ -225,6 +233,14 @@ theme = "love"
         post = ""
         name = "研究"
         url = "/research/"
+        title = ""
+      [[languages.zh-tw.menu.main]]
+        weight = 2
+        identifier = "publication"
+        pre = ""
+        post = ""
+        name = "發表"
+        url = "/publication/"
         title = ""
       [[languages.zh-tw.menu.main]]
         weight = 3
