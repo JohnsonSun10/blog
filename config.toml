@@ -156,7 +156,15 @@ theme = "love"
         post = ""
         name = "Publication"
         url = "/publication/"
-        title = ""        
+        title = ""
+      [[languages.en.menu.main]]
+        weight = 3
+        identifier = "award"
+        pre = ""
+        post = ""
+        name = "Award"
+        url = "/award/"
+        title = ""            
       [[languages.en.menu.main]]
         weight = 3
         identifier = "contact"
@@ -171,7 +179,7 @@ theme = "love"
         pre = ""
         post = ""
         name = "CV"
-        url = "https://drive.google.com/file/d/1oK9um19o07sgMXzabpbIr2rbu_G1CYP-/view?usp=sharing"
+        url = "https://drive.google.com/file/d/1Qss8re7WVVxfh3lXkzRvE4v0H6sr7Wl3/view?usp=sharing"
         title = ""
       [[languages.en.menu.main]]
         weight = 6
@@ -244,6 +252,14 @@ theme = "love"
         title = ""
       [[languages.zh-tw.menu.main]]
         weight = 3
+        identifier = "award"
+        pre = ""
+        post = ""
+        name = "獎項"
+        url = "/award/"
+        title = ""      
+      [[languages.zh-tw.menu.main]]
+        weight = 3
         identifier = "tags"
         pre = ""
         post = ""
@@ -256,7 +272,7 @@ theme = "love"
         pre = ""
         post = ""
         name = "個人履歷"
-        url = "https://drive.google.com/file/d/1Ky-_4Qb1qXQIS7C-yiYiDM1SWVhZCZk1/view?usp=sharing"
+        url = "https://drive.google.com/file/d/1Qss8re7WVVxfh3lXkzRvE4v0H6sr7Wl3/view?usp=sharing"
       [[languages.zh-tw.menu.main]]
         weight = 6
         identifier = "github"
