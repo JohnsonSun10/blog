@@ -16,14 +16,14 @@ math:
 ###### Phi Tau Phi Honourary Member, The Phi Tau Phi Scholastic Honour Society
 - Awarded to the top three percent of master’s graduates in Taiwan for exceptional academic performance.
 
-###### Outstanding Overseas Chinese Graduate Student Scholarships, National Taiwan University 2021
+###### Outstanding Overseas Chinese Graduate Student Scholarships, National Taiwan University
 - Awarded to overseas Chinese graduate students in NTU for exceptional academic performance.
 
-###### Go Global International Learning Programs Award, University of British Columbia 2019
+###### Go Global International Learning Programs Award, University of British Columbia
 - Awarded to students participating in exchange programs who demonstrate excellent academic performance.
 
-###### Commerce Students Tuition Bursary Fund, University of British Columbia 2019
+###### Commerce Students Tuition Bursary Fund, University of British Columbia
 - Awarded to students with excellent academic performance and financial need.
 
-###### Dean's Honour Roll, Kwantlen Polytechnic University 2018
+###### Dean's Honour Roll, Kwantlen Polytechnic University
 - Awarded to students with excellent academic performance.
